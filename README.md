@@ -1,16 +1,38 @@
-## Hi there 👋
+💻 Sobre mim
+Profissional com mais de 7 anos de experiência em gestão de contratos e relatórios financeiros, atualmente em transição para a área de tecnologia.
+Possuo conhecimentos avançados em Python, automação de processos e desenvolvimento web com Flask, além de experiência em análise de dados com Pandas e automação de testes com Selenium.
 
-<!--
-**gallothiago/gallothiago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Apaixonado por resolver problemas por meio da programação, criar soluções eficientes e transformar dados em insights.
 
-Here are some ideas to get you started:
+🛠️ Habilidades Técnicas
+Linguagens: Python (avançado), JavaScript, C#
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Web: Flask, React.js, HTML, CSS
+
+Automação & Dados: Selenium, Pandas, Power BI (básico)
+
+Ferramentas: Git, Excel (intermediário), VS Code, Node.js
+
+Outros: Gestão de Contratos, Relatórios Financeiros
+
+Idiomas: Inglês Intermediário
+
+📚 Formação & Cursos
+Análise e Desenvolvimento de Sistemas (cursando) – Anhanguera
+
+Bacharelado em Contabilidade (trancado) – Uninassau
+
+Python Avançado – Hashtag Treinamentos (2024)
+
+React.js – Udemy (2025)
+
+JavaScript – Curso em Vídeo (2025)
+
+Arduino Básico – Oxetech (2025)
+
+🚀 O que estou fazendo agora
+Desenvolvendo projetos em Python e React.js
+
+Estudando desenvolvimento full-stack
+
+Criando automações e aplicações web para resolver problemas do dia a dia
