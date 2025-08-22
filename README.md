@@ -19,7 +19,7 @@ Possuo conhecimentos avançados em **Python**, **automação de processos** e **
 
 ## 📚 Formação & Cursos
 - 🎓 **Análise e Desenvolvimento de Sistemas** *(cursando)* – Anhanguera  
-- 🎓 **Bacharelado em Contabilidade** *(trancado)* – Uninassau  
+- 🎓 **Bacharelado em Contabilidade** – Uninassau  
 - 📜 **Python Avançado** – Hashtag Treinamentos (2024)  
 - 📜 **React.js** – Udemy (2025)  
 - 📜 **JavaScript** – Curso em Vídeo (2025)  
