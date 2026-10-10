@@ -14,6 +14,7 @@ Possuo conhecimentos avançados em **Python**, **automação de processos** e **
 - **Ferramentas:** Git, Excel (intermediário), VS Code, Node.js
 - **Outros:** Gestão de Contratos, Relatórios Financeiros
 - **Idiomas:** Inglês Intermediário
+- **ERP:** Oracle Fusion Cloud
 
 ---
 
